@@ -1,2 +1,3 @@
 # L-trans
-Farek, Trisztán, Boti
+Farek, Trisztán, Boti, Gábor
+
